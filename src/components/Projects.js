@@ -3,6 +3,7 @@ import ProjectCard from "./ProjectCard";
 import Gallery from "../img/gallery.jpg"
 import TaskBliss from "../img/Task-Bliss.png"
 import StudyEnglishBot from "../img/Study English.jpg"
+import FreshBasket from "../img/FreshBasket.png"
 
 const projects = [
     {
@@ -19,6 +20,11 @@ const projects = [
         title: "Study English Bot",
         link: "https://angel200306.github.io/AboutMyEnglishBot/",
         image: StudyEnglishBot
+    },
+    {
+        title: "Fresh Basket",
+        link: "https://angel200306.github.io/FreshBasket/",
+        image: FreshBasket
     }
 ]
 
