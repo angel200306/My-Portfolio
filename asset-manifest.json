@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.11415034.css",
-    "main.js": "/My-Portfolio/static/js/main.e9ee59ab.js",
+    "main.css": "/My-Portfolio/static/css/main.db3ad0a2.css",
+    "main.js": "/My-Portfolio/static/js/main.848663c6.js",
+    "static/media/Task-Bliss.png": "/My-Portfolio/static/media/Task-Bliss.f6430031c958c046f0c9.png",
     "static/media/Noviva.jpg": "/My-Portfolio/static/media/Noviva.7a61facdb72c3914e0fa.jpg",
-    "static/media/About Gallery App.jpg": "/My-Portfolio/static/media/About Gallery App.c5799ef9e1f93276c0d1.jpg",
-    "static/media/Brainy Cards.jpg": "/My-Portfolio/static/media/Brainy Cards.738a40682c3a58cf0282.jpg",
     "static/media/Study English.jpg": "/My-Portfolio/static/media/Study English.e81eb59f9a9366e3615a.jpg",
     "static/media/gallery.jpg": "/My-Portfolio/static/media/gallery.0049696e38c2c90e91d1.jpg",
     "index.html": "/My-Portfolio/index.html",
-    "main.11415034.css.map": "/My-Portfolio/static/css/main.11415034.css.map",
-    "main.e9ee59ab.js.map": "/My-Portfolio/static/js/main.e9ee59ab.js.map"
+    "main.db3ad0a2.css.map": "/My-Portfolio/static/css/main.db3ad0a2.css.map",
+    "main.848663c6.js.map": "/My-Portfolio/static/js/main.848663c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.11415034.css",
-    "static/js/main.e9ee59ab.js"
+    "static/css/main.db3ad0a2.css",
+    "static/js/main.848663c6.js"
   ]
 }
